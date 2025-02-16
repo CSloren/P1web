@@ -3,7 +3,7 @@ name: Despliegue automático con Surge.sh
 on:
   push:
     branches:
-      - main  
+      - master  
 
 jobs:
   deploy:
